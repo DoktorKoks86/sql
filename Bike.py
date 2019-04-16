@@ -2,10 +2,10 @@
 
 class Bike:
 
-    def __init__(self, Id, Color, Size, Brand):
+    def __init__(self, Id, color, size, brand):
         self.Id = Id
-        self.Color = Color
-        self.Size = Size
-        self.Brand = Brand
+        self.color = color
+        self.size = size
+        self.brand = brand
 
-        
+
